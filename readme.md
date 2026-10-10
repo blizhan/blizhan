@@ -12,6 +12,8 @@ Building tools and experiments around weather and climate data, geospatial syste
 
 ## 🌦️ Weather, Climate & Geospatial
 
+- [**chorust/radiust**](https://github.com/chorust/radiust) — Public weather radar acquisition, processing, and export with a Rust core, CLI, and Python SDK
+- [**chorust/duckomo**](https://github.com/chorust/duckomo) — Query local and remote Open-Meteo OM files directly in DuckDB with spatial and temporal filtering
 - [**climabc-index**](https://github.com/blizhan/climabc-index) — Climate index data pipeline and visualization console
 - [**om-exporter**](https://github.com/blizhan/om-exporter) — Convert Open-Meteo OM files into common meteorological grids
 - [**cnmetlab/pycdoexpr**](https://github.com/cnmetlab/pycdoexpr) — Generate CDO expressions from Python syntax
@@ -21,10 +23,13 @@ Building tools and experiments around weather and climate data, geospatial syste
 
 ## 🧠 Machine Learning
 
+- [**Tabloom**](https://github.com/blizhan/Tabloom) — Browser-native tabular machine learning powered by DuckDB-WASM and tabular foundation models · [Live app](https://tabloom.pages.dev/)
 - [**straw-machine**](https://github.com/blizhan/straw-machine) — Low-code helpers for building scikit-learn pipelines for ETL and feature engineering
 
 ## 🤖 AI, Agents & Developer Workflows
 
+- [**TermPilot**](https://github.com/blizhan/termpilot) — MCP tools for inspecting and controlling existing iTerm2 and Otty terminal sessions on macOS
+- [**chorust/duckjeu**](https://github.com/chorust/duckjeu) — Run model judgments on tables and Parquet data in DuckDB and use typed results in SQL
 - [**aimx**](https://github.com/blizhan/aimx) — CLI-first extensions for Aim
 - [**Open-Idea-Grove/hook-loop**](https://github.com/Open-Idea-Grove/hook-loop) — Explicit state-machine outer loops for autonomous agents
 - [**chorust/chorust**](https://github.com/chorust/chorust) — Native Mac client for chatting across multiple AI models
